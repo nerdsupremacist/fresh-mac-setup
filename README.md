@@ -61,12 +61,12 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 
 ## Apps
 
-- [ ] Install Xcode from the App Store
-	- [ ] Enable Trimming of blank lines in Text Editing > Editing > While Editing
-	- [ ] Set command click to jump to definition in Navigation > Command Click on Code
-	- And to save you the trouble of debugging this for the millionth time:
-		- [ ] Run `sudo xcode-select -s /Applications/Xcode.app/Contents/Developer`
 - Install software from the Mac App Store
+	- [ ] Xcode 
+		- [ ] Enable Trimming of blank lines in Text Editing > Editing > While Editing
+		- [ ] Set command click to jump to definition in Navigation > Command Click on Code
+		- And to save you the trouble of debugging this for the millionth time:
+			- [ ] Run `sudo xcode-select -s /Applications/Xcode.app/Contents/Developer`
 	- [ ] Slack
 	- [ ] Telegram
 	- [ ] AdGuard for Safari
