@@ -31,6 +31,11 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 - [ ] Add volume icon (to be able to change output quickly)
 - [ ] Show battery percentage
 
+### Safari
+
+- [ ] Enable developer tools
+	- It's in Advanced > Show Develop Menu in Menu Bar
+
 ## Terminal
 
 - [ ] Install Xcode CLI tools
