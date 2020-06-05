@@ -48,7 +48,8 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 	- [ ] Install a compatible font from the [repo](https://github.com/powerline/fonts).
 		- You were last using Inconsolata
 	- [ ] Set font in terminal to compatible font
-	- [ ] Download .zshrc from the Password Manager
+	- [ ] Download .zshrc from the Password Manager 
+		- *note: you don't need to store these in your Password Manager. I just put them there while I was storing my ssh keys there. Git is propbably a better choice for this. I just did it this way*
 - [ ] Download ssh keys from the Password Manager
 - [ ] Download .vimrc from the Password Manager
 - [ ] Download global .gitignore from the Password Manager
