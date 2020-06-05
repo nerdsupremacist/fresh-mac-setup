@@ -66,41 +66,21 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 	- [ ] Set command click to jump to definition in Navigation > Command Click on Code
 	- And to save you the trouble of debugging this for the millionth time:
 		- [ ] Run `sudo xcode-select -s /Applications/Xcode.app/Contents/Developer`
-- [ ] Install Slack from the App Store
-- [ ] Install Telegram from the App Store
-- [ ] Install AdGuard for Safari from the App Store
-- [ ] Install Grammarly for Safary from the App Store
+- Install software from the Mac App Store
+	- [ ] Slack
+	- [ ] Telegram
+	- [ ] AdGuard for Safari
+	- [ ] Grammarly for Safari
+- Install software from Homebrew (Alfred, Sequel Pro, VSCode, MacDown, GitTower, jetBrains Toolbox, Docker, Chrome (just in case), WhatsApp, Discord, Steam, LaTeX)
+	- `brew bundle`
 - Setup Alfred.
-	- [ ] Run: `brew cask install alfred`
  	- [ ] Set Spotlight Shortcut to something else
  	- [ ] Set Alfred Shortcut to ⌘ + Space
  	- [ ] Turn on Clipboard History
  	- [ ] Hide hat on Window
  	- [ ] Hide menu bar icon
 	- [ ] Set up bunnylol as a search engine
-- [ ] Install Sequel Pro:
-	- `brew cask install sequel-pro`
-- [ ] Install VS Code (or Nuclide):
-	- `brew cask install visual-studio-code`
-- [ ] Install MacDown:
-	- `brew cask install macdown`
-- [ ] Install Git Tower:
-	- `brew cask install tower`
-- [ ] Install JetBrains Toolbox:
-	- `brew cask install jetbrains-toolbox`
-- [ ] Install Docker:
-	- `brew cask install docker`
-- [ ] Install Chrome (just in case):
-	- `brew cask install google-chrome`
-- [ ] Install WhatsApp:
-	- `brew cask install whatsapp`
-- [ ] Install Discord:
-	- `brew cask install discord`
-- [ ] Install Steam:
-	- `brew cask install steam`
-- [ ] Install LaTeX:
-	- `brew cask install mactex`
-	- [ ] Add the LaTeX Workshop plugin for VS Code
+- [ ] Add the LaTeX Workshop plugin for VS Code
 - [ ] Install IntelliJ via JetBrains ToolBox
 - [ ] Install NodeJS and NPM from [here](https://nodejs.org/).
 
