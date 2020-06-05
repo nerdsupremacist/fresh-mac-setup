@@ -61,6 +61,7 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
  	- [ ] Turn on Clipboard History
  	- [ ] Hide hat on Window
  	- [ ] Hide menu bar icon
+	- [ ] Set up bunnylol as a search engine
 - [ ] Install Sequel Pro:
 	- `brew cask install sequel-pro`
 - [ ] Install VS Code:
