@@ -71,8 +71,20 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 	- [ ] Telegram
 	- [ ] AdGuard for Safari
 	- [ ] Grammarly for Safari
-- Install software from Homebrew (Alfred, Sequel Pro, VSCode, MacDown, GitTower, jetBrains Toolbox, Docker, Chrome (just in case), WhatsApp, Discord, Steam, LaTeX)
-	- `brew bundle`
+- [ ] Install software from Homebrew
+	- `brew bundle` will install:
+		- Alfred
+		- Sequel Pro
+		- VSCode
+		- MacDown
+		- Git Tower
+		- JetBrains Toolbox
+		- Docker
+		- Chrome (just in case)
+		- WhatsApp
+		- Discord
+		- Steam
+		- LaTeX
 - Setup Alfred.
  	- [ ] Set Spotlight Shortcut to something else
  	- [ ] Set Alfred Shortcut to ⌘ + Space
