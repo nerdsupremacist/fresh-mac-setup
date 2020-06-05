@@ -64,7 +64,7 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 	- [ ] Set up bunnylol as a search engine
 - [ ] Install Sequel Pro:
 	- `brew cask install sequel-pro`
-- [ ] Install VS Code:
+- [ ] Install VS Code (or Nuclide):
 	- `brew cask install visual-studio-code`
 - [ ] Install MacDown:
 	- `brew cask install macdown`
