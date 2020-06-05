@@ -21,6 +21,16 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 
 - [ ] Disable `Show recent applications in Dock`
 
+### Desktop
+
+- [ ] Use stacks
+
+### Menu Bar
+
+- [ ] Get rid of keyboard icon
+- [ ] Add volume icon (to be able to change output quickly)
+- [ ] Show battery percentage
+
 ## Terminal
 
 - [ ] Install Xcode CLI tools
@@ -87,3 +97,9 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 	- [ ] Add the LaTeX Workshop plugin for VS Code
 - [ ] Install IntelliJ via JetBrains ToolBox
 
+## Rearrange Dock
+
+Rearrange the Apps you want on the dock, however you like.
+As a reference this is my Dock right now:
+
+![](dock.png)
