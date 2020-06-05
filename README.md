@@ -4,7 +4,7 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 
 ## Password Manager
 
-- [ ] Install 1Password
+- [ ] Install 1Password [here](https://1password.com/downloads/mac/)
 - [ ] Set up 1Password using QR code from phone
 
 ## Settings
