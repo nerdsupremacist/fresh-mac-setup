@@ -97,6 +97,7 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
 	- `brew cask install mactex`
 	- [ ] Add the LaTeX Workshop plugin for VS Code
 - [ ] Install IntelliJ via JetBrains ToolBox
+- [ ] Install NodeJS and NPM from [here](https://nodejs.org/).
 
 ## Rearrange Dock
 
