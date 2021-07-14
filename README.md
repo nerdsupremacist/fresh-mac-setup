@@ -93,6 +93,8 @@ Here's a simple list of steps to set up a Mac the way I like it. My setup is pre
  	- [ ] Hide menu bar icon
 	- [ ] Set up bunnylol as a search engine
 - [ ] Add the LaTeX Workshop plugin for VS Code
+- [ ] Install other Apps not available via Homebrew
+	- [ ] [TextSniper](https://textsniper.app) 
 - [ ] Install IntelliJ via JetBrains ToolBox
 	- In case of working on [Kotlin](https://github.com/JetBrains/kotlin):
 		- Install JDK 9 from [here](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html)
